@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Program_Files/Software/project_files/stm32/phase/Drivers/CMSIS/DSP_LIB/Source/TransformFunctions/arm_bitreversal2.S
+
+F:/Program_Files/Software/project_files/stm32/phase/startup/startup_stm32f407xx.s
+

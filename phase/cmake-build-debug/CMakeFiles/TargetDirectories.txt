@@ -1,0 +1,3 @@
+F:/Program_Files/Software/project_files/stm32/phase/cmake-build-debug/CMakeFiles/phase.elf.dir
+F:/Program_Files/Software/project_files/stm32/phase/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Program_Files/Software/project_files/stm32/phase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
